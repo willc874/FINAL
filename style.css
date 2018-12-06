@@ -22,9 +22,9 @@ body, #slider, .wrap, .slide-content {
 	background-repeat: no-repeat;
 }
 
-.slide1{background-image: url(images/11.14.18_SCAN8.tif)}
-.slide2{background-image: url(images/11.8.18_SCAN6.tif)}
-.slide3{background-image: url(images/11.8.18_SCAN2.tif)}
+.slide1{background-image: url(images/11.14.18_SCAN8.jpg)}
+.slide2{background-image: url(images/11.8.18_SCAN6.jpg)}
+.slide3{background-image: url(images/11.8.18_SCAN2.jpg)}
 
 .slide-content{
 	display: flex;
